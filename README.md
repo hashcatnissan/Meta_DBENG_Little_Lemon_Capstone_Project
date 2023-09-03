@@ -224,7 +224,7 @@ A Tableau workbook has been created, containing various charts and dashboards to
 ![Sales Bubble Chart](./Screenshots/SalesBubbleChart.PNG)
 
 ###  Cuisine Sales and Profits
-![ Cuisine Sales and Profits](./Screenshots/Cuisine_Sales_and Profits.PNG)
+![ Cuisine Sales and Profits](./Screenshots/Cuisine_Sales_and_Profits.PNG)
 
 ### Dashboard
 ![dashboard](./Screenshots/Dasboard.png)
